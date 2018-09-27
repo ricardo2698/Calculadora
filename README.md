@@ -1,0 +1,2 @@
+# Calculadora
+arquitectura del sotfware
